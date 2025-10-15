@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Crawler UI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-gray-100 min-h-screen p-8">
+    <div class="max-w-4xl mx-auto">
+        <header class="mb-10 text-center">
+            <h1 class="text-4xl font-extrabold text-blue-500 mb-2">Smart Web Crawler</h1>
+            <p class="text-gray-400">ML-Powered Competitive Programming Problem Scraper</p>
+        </header>
+
+        <div class="bg-gray-800 p-6 rounded-xl shadow-2xl mb-8 flex gap-4">
+            <input id="url" type="text" value="https://codeforces.com/problemset/problem/189/A" 
+                   class="flex-1 bg-gray-700 border border-gray-600 p-3 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none">
+            <button onclick="runCrawl()" class="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg font-bold transition">Start Crawling</button>
+        </div>
+
+        <div id="logs" class="space-y-4">
+            </div>
+    </div>
+
+    <script>
+        function runCrawl() {
+            const url = document.getElementById('url').value;
+            const logs = document.getElementById('logs');
+            logs.innerHTML = '<div class="text-blue-400 animate-pulse">Establishing stream connection...</div>';
+
+            // REPLACE THIS with your Render URL after deployment
+            const backend = `http://localhost:8000/crawl?url=${encodeURIComponent(url)}&limit=15`;
+            
+            const eventSource = new EventSource(backend);
+
+            eventSource.onmessage = (event) => {
+                const data = JSON.parse(event.data);
+                const card = document.createElement('div');
+                card.className = `p-4 rounded-lg border-l-4 transition-all ${data.relevant ? 'bg-green-900/20 border-green-500' : 'bg-gray-800 border-gray-600'}`;
+                
+                card.innerHTML = `
+                    <div class="flex justify-between items-start mb-2">
+                        <span class="text-xs font-mono text-gray-500">${data.url}</span>
+                        <span class="px-2 py-1 rounded text-[10px] uppercase font-bold ${data.relevant ? 'bg-green-500 text-white' : 'bg-gray-700 text-gray-400'}">
+                            ${data.relevant ? 'Match Found' : 'Skipped'}
+                        </span>
+                    </div>
+                    <p class="text-sm text-gray-300 italic">"${data.snippet}..."</p>
+                `;
+                logs.prepend(card);
+            };
+
+            eventSource.onerror = () => {
+                eventSource.close();
+                const end = document.createElement('div');
+                end.className = "text-center text-gray-500 mt-4";
+                end.innerText = "Stream ended or timed out.";
+                logs.prepend(end);
+            };
+        }
+    </script>
+</body>
+</html>

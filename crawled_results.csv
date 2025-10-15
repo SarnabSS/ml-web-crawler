@@ -1,0 +1,183 @@
+url,snippet
+https://codeforces.com/problemset/page/1,"Problemset - Codeforces
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter
+                     | 
+                        Register
+
+
+
+
+
+
+
+Home
+Top
+Catalog
+Contests
+Gym
+Problemset
+Groups
+Rating
+Edu
+API
+Cal"
+https://codeforces.com/problemset/problem/2193/H,"H. Remove the Grail Treetime limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputThe Great Grail Tree has stood in the kingdom for $$$315$$$ years. It takes up a lot of space, so King Ila decided to get rid of it as soon as possible. The tree itself is an"
+https://codeforces.com/problemset/problem/2193/F,"F. Pizza Deliverytime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputCourier YF has earned the title of the best pizza delivery person GR. The manager does not like him, so he decided to give him a very difficult task. The manager provided him with $"
+https://codeforces.com/problemset/problem/2193/E,"E. Product Queriestime limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputToday, Sabyrzhan was called to the board with an array $$$a$$$ of length $$$n$$$ and was assigned an officer's task — to answer $$$n$$$ questions.In the $$$i$$$-th question, it is"
+https://codeforces.com/problemset/problem/2193/D,"D. Monster Gametime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou have been gifted a new game called ""Elatyh"". In the game, you are given $$$n$$$ swords, each with its own strength. In particular, the sword numbered $$$i$$$ has a strength of $$$"
+https://codeforces.com/problemset/problem/2193/C,"C. Replace and Sumtime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputToday, KQ has an exam at the Grail Academy. A strict teacher gave a task that KQ could not solve. He was given two arrays $$$a$$$ and $$$b$$$ of length $$$n$$$. KQ is allowed to pe"
+https://codeforces.com/problemset/problem/2193/B,"B. Reverse a Permutationtime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputA permutation of length $$$n$$$ is an array consisting of $$$n$$$ distinct integers from $$$1$$$ to $$$n$$$ in arbitrary order. For example, $$$[2,3,1,5,4]$$$ is a permutatio"
+https://codeforces.com/problemset/problem/2193/A,A. DBMB and the Arraytime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputDBMB had a birthday yesterday. He was gifted an array $$$a$$$ of $$$n$$$ elements and a number $$$x$$$. But there is one problem: he only likes arrays where the sum of the elemen
+https://codeforces.com/problemset/problem/2191/B,"B. MEX Reorderingtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output You are given an integer array $$$a$$$ consisting of $$$n$$$ elements. Denote $$$f(l, r) = \operatorname{MEX}([a_l, a_{l + 1}, \ldots, a_r])$$$$$$^{\text{∗}}$$$. Determine if there"
+https://codeforces.com/problemset/problem/2191/A,A. Array Coloringtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output You have $$$n$$$ cards arranged in a row. The $$$i$$$-th card has the integer $$$a_i$$$ written on it. All integers are distinct.You must color each card either $$$\color{red}{\text
+https://codeforces.com/problemset/problem/2190/G,"G. Maximize Determinanttime limit per test4 secondsmemory limit per test512 megabytesinputstandard inputoutputstandard output An $$$n \times n$$$ matrix $$$B$$$ is called an interval matrix if for each row $$$i$$$, there exists a contiguous range of columns $$$[l_i, r_i]$$$ ($$$1 \le l_i \le r_i \le"
+https://codeforces.com/problemset/problem/2190/F,"F. Xor Producttime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputFor non-negative integers $$$x, y$$$ and a positive integer $$$k$$$, let $$$S(x, y, k)$$$ be the set of values $$$(x + i) \oplus (y + j)$$$ for all $$$0 \le i, j < k$$$. Formally: $$$$"
+https://codeforces.com/problemset/problem/2190/E,"E. Median Permutationtime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output For a permutation$$$^{\text{∗}}$$$ $$$q$$$ of size $$$m \ge 3$$$, define $$$f(q)$$$ to be a sequence $$$b$$$ of size $$$m - 2$$$ such that $$$b_i = \operatorname{med}(q_i, q_{i"
+https://codeforces.com/problemset/problem/2190/D,"D. Prufer Vertextime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output For a tree $$$T$$$ with $$$n \ge 2$$$ vertices, consider the standard process for generating its Prufer sequence. We repeatedly perform the following steps until only two vertices r"
+https://codeforces.com/problemset/problem/2190/B2,"B2. Sub-RBS (Hard Version)time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output This is the hard version of the problem. The difference between the versions is that in this version, you need to find the sum of scores over all subsequences of $$$s$$$;"
+https://codeforces.com/problemset/problem/2190/B1,"B1. Sub-RBS (Easy Version)time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output This is the easy version of the problem. The difference between the versions is that in this version, you only need to evaluate for whole string $$$s$$$, $$$s$$$ is regula"
+https://codeforces.com/problemset/problem/2190/A,"A. Sorting Gametime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputAlice and Bob play a game on a binary string $$$s$$$ of length $$$n$$$ (a string consisting only of characters $$$\mathtt{0}$$$ and $$$\mathtt{1}$$$). Alice moves first, and the playe"
+https://codeforces.com/problemset/problem/2189/F,"F. Zhora the Vacuum Cleanertime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputOnce upon a time, Zhora the Vacuum Cleaner found a big container with nuts that is represented by a tree with $$$n$$$ vertices. Initially, in the $$$i$$$-th vertex, there"
+https://codeforces.com/problemset/problem/2189/E,"E. Majority Wins?time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output You are given a binary string$$$^{\text{∗}}$$$ $$$s$$$ of length $$$n$$$.In one operation with a binary string $$$g$$$ of length $$$k$$$, you can do the following:  choose some $$$"
+https://codeforces.com/problemset/problem/2189/D2,"D2. Little String (Hard Version)time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output This is the hard version of the problem. The difference between the versions is that in this version, the string $$$s$$$ can contain the character ?.For the string $"
+https://codeforces.com/problemset/problem/2189/D1,"D1. Little String (Easy Version)time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output This is the easy version of the problem. The difference between the versions is that in this version, it is guaranteed that the string $$$s$$$ does not contain the c"
+https://codeforces.com/problemset/problem/2189/C2,"C2. XOR-convenience (Hard Version)time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output This is the hard version of the problem. The difference between the versions is that in this version, $$$1 \le i \le n-1$$$. Note that a correct solution for the h"
+https://codeforces.com/problemset/problem/2189/C1,"C1. XOR Convenience (Easy Version)time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output This is the easy version of the problem. The difference between the versions is that in this version, $$$2 \le i \le n-1$$$. Note that a correct solution for the h"
+https://codeforces.com/problemset/problem/2189/B,"B. The Curse of the Frogtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputOn an infinite number line, at point $$$0$$$, sits a frog. After many years of meditation, the frog has mastered $$$n$$$ unique types of magical jumps. The $$$i$$$-th type of"
+https://codeforces.com/problemset/problem/2189/A,"A. Table with Numberstime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputPeter drew a table of size $$$h \times l$$$, filled with zeros. We will number its rows from $$$1$$$ to $$$h$$$ from top to bottom, and columns from $$$1$$$ to $$$l$$$ from left"
+https://codeforces.com/problemset/problem/2188/B,B. Seatstime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output Cordell manages a row of $$$n$$$ seats at the Scuola Comunale di Musica Piova where students are strictly forbidden from sitting next to each other. You are given a binary string$$$^{\text{∗
+https://codeforces.com/problemset/problem/2188/A,A. Divisible Permutationtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output You are given an integer $$$n$$$. Construct a permutation$$$^{\text{∗}}$$$ $$$p$$$ of length $$$n$$$ satisfying the following condition:  $$$\lvert p_i - p_{i+1} \rvert$$$ is
+https://codeforces.com/problemset/problem/2187/G,G. Many Cartesian Treestime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output Consider an array $$$a$$$ consisting of $$$n$$$ distinct integers. The Cartesian Tree of $$$a$$$ is defined as a unique binary tree$$$^{\text{∗}}$$$ that satisfies the follow
+https://codeforces.com/problemset/problem/2187/F2,"F2. Al Fine (Counting Version)time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output This is the counting version of the problem. The difference between the versions is that in this version, you need to find the number of different common trees. Also,"
+https://codeforces.com/problemset/problem/2187/F1,"F1. Al Fine (Maximizing Version)time limit per test3 secondsmemory limit per test512 megabytesinputstandard inputoutputstandard output This is the maximizing version of the problem. The difference between the versions is that in this version, you need to find the maximum possible depth among all com"
+https://codeforces.com/problemset/problem/2187/E,"E. Doors and Keystime limit per test3 secondsmemory limit per test1024 megabytesinputstandard inputoutputstandard output There are $$$n+1$$$ rooms arranged in a line, numbered from $$$1$$$ to $$$n+1$$$ from left to right. There are also $$$n$$$ doors numbered from $$$1$$$ to $$$n$$$, where the $$$i$"
+https://codeforces.com/problemset/problem/2187/D,"D. Cool Problemtime limit per test4 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output There are two integer constants $$$x$$$ and $$$y$$$.For a binary$$$^{\text{∗}}$$$ string $$$r$$$ of length $$$n$$$, we define its generating array as an array $$$c=[c_0,c_1,\ldots,c_"
+https://codeforces.com/problemset/problem/2187/C,"C. Jerry and Tomtime limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output Jerry and Tom are playing a game on a directed graph $$$G$$$ with $$$n$$$ vertices, numbered from $$$1$$$ to $$$n$$$. For every vertex $$$1 \le u < n$$$, there is a directed edge fr"
+https://codeforces.com/problemset/problem/2187/B,"B. Shortest Statement Evertime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output You are given two non-negative integers $$$x$$$, $$$y$$$. Find two non-negative integers $$$p$$$ and $$$q$$$ such that $$$p\;\&\;q=0$$$, and $$$|x-p|+|y-q|$$$ is minimized"
+https://codeforces.com/problemset/problem/2187/A,"A. Restricted Sortingtime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard output You are given an array $$$a$$$ of length $$$n$$$. For an integer $$$k$$$, we call it piggy if and only if it is possible to sort $$$a$$$ in non-descending order by performing t"
+https://codeforces.com/problemset/problem/2185/H,"H. BattleCows 2time limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputFarmer John wants to host another tournament with $$$n$$$ cows, where the $$$i$$$-th cow has a skill level of $$$a_i$$$. The following process repeats until there is only one cow in t"
+https://codeforces.com/problemset/problem/2185/G,"G. Mixing MEXestime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given $$$n$$$ arrays $$$a_1, a_2, \ldots, a_n$$$. The following operation is performed exactly once:   Choose any array among $$$a_1, a_2, \ldots, a_n$$$. Suppose you've chose"
+https://codeforces.com/problemset/problem/2185/F,"F. BattleCowstime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputFarmer John is sending a cow to compete in the International Bovine Olympiad, but he's too lazy to write problems for a contest, so he does the next most reasonable thing: a fighting to"
+https://codeforces.com/problemset/problem/2185/E,"E. The Robotic Rushtime limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputThere exists an infinitely long number line.On the number line, there are $$$n$$$ robots and $$$m$$$ spikes, each located at a specific point on the number line. The $$$i$$$-th ro"
+https://codeforces.com/problemset/problem/2185/D,"D. OutOfMemoryErrortime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputBessie has an array of $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$. Bessie performs $$$m$$$ operations on the array. The $$$i$$$-th operation sets $$$a_{b_i} = a_{b_i} + c_i$$$.U"
+https://codeforces.com/problemset/problem/2185/C,"C. Shifted MEXtime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given an array of $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$. You are allowed to perform the following operation once.   Select an integer $$$x$$$ (which may be negative), an"
+https://codeforces.com/problemset/problem/2185/B,"B. Prefix Maxtime limit per test1.5 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given an array of $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$. The value of an array is the sum of the maximums of each prefix of the array. More formally, the value of an ar"
+https://codeforces.com/problemset/problem/2185/A,"A. Perfect Roottime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputA positive integer $$$x$$$ is a perfect root if there exists an integer $$$y$$$ such that $$$\sqrt{y} = x$$$. For example, $$$5$$$ is a perfect root because $$$\sqrt{25} = 5$$$.For eac"
+https://codeforces.com/problemset/problem/2184/G,"G. Nastiness of Segmentstime limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputAndrey remembered that he has $$$n$$$ blocks numbered from $$$1$$$ to $$$n$$$. On the block with number $$$i$$$, there is initially an integer $$$a_i$$$ written. He arranged"
+https://codeforces.com/problemset/problem/2184/F,F. Cherry Treetime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given a rooted tree with $$$n$$$ vertices$$$^{\text{∗}}$$$. The vertices of the tree are numbered with integers from $$$1$$$ to $$$n$$$. The root of the tree is vertex number $
+https://codeforces.com/problemset/problem/2184/E,E. Exquisite Arraytime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputWe call an array of numbers $$$k$$$-exquisite if it has at least two elements and any two adjacent numbers differ by at least $$$k$$$.You are given a permutation$$$^{\text{∗}}$$$ $
+https://codeforces.com/problemset/problem/2184/D,"D. Unfair Gametime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputBob is tired of losing to Alice and, to ensure he doesn't lose again, decided to choose a game in which he is guaranteed to win. Bob has thought of a number from $$$1$$$ to $$$n$$$, whe"
+https://codeforces.com/problemset/problem/2184/C,"C. Huge Piletime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputAndrei has a huge pile of $$$n$$$ apples. He can divide the pile into two smaller piles: if there are $$$x$$$ apples in the pile, he will get piles with $$$\lfloor \frac{x}{2} \rfloor$$$$"
